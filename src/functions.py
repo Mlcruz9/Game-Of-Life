@@ -63,3 +63,7 @@ def set_initial_state():
 
                     pygame.display.flip()
                     clock.tick(10)
+
+                
+
+
